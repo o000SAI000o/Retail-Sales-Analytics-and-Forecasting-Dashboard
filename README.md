@@ -15,3 +15,10 @@ I'll guide you **step by step**, from **getting the dataset** to **deploying it 
 | **7️⃣ Deployment & Resume Boost** | **Publish dashboard online** + **GitHub portfolio** | Industry-ready deployment |
 
 
+---
+
+<img width="2001" height="1125" alt="image" src="https://github.com/user-attachments/assets/85393abe-cebc-4869-b0e2-631f62a2f964" />
+
+
+---
+
